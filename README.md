@@ -3,5 +3,4 @@
 
 ![Test Image 1](imagesRedMe/Screenshot_2020-03-31-13-48-32-958_com.app.musicplayer[1].jpg )
 
-![Test Image 1](imagesRedMe/Screenshot_2020-03-31-13-48-32-958_com.app.musicplayer[1].jpg =250x250 )
 
